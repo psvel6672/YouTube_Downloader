@@ -1,4 +1,4 @@
-import yt_dlp, requests as web, ast, os, datetime, pprint
+import yt_dlp, requests as web, ast, os, datetime
 
 author = """
 --------------------------------------------------
